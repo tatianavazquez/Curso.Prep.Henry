@@ -1,0 +1,23 @@
+Variables: Las variables son métodos de guardado de información,
+a las cuales podremos acceder en el futuro.
+
+Strings: Son un tipo de datos. Un string siempre va entre comillas
+' ', y dentro puede contener cualquier caracter. Generalmente, se usan para
+escribir texto.
+
+Funciones: Las funciones son un método de automatización de código.
+O sea, una función nos va a permitir dar instrucciones de cómo hacer algo,
+dar las herramientas para hacerlo y, a partir de ello, obtendremos un resultado.
+
+Los argumentos de una función son variables que definimos dentro de ellas, 
+a las cuales les damos un valor cuando invocamos la función.
+
+El "return" de una función nos permite obtener el resultado de la ejecución de la misma.
+Además, siempre que haya un "return", la función va a terminar allí. Si hay más código,
+no se va a ejecutar.
+
+Las declaraciones "IF" son statements que permiten ejecutar distintos códigos 
+dependiendo en si una afirmación es verdadera o falsa.
+
+Los valores booleanos, true y false, son un tipo de datos, con los que podemos realizar
+operaciones lógicas, comparaciones, etc.
