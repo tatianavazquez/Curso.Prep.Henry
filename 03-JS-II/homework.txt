@@ -1,0 +1,13 @@
+"FOR" es un statement que sirve para escribir un bloque de código más conciso.
+Es un bucle, que nos sirve para escribir código repetitivo de manera más acotada.
+Tiene tres partes: la variable, la condición de frenado y el paso.
+
+&& se refiere a un operador lógico, que quiere decir "y". Compara dos o más variables
+según su veracidad (true o false), y nos devuelve un booleano, dependiendo de la tabla
+de la verdad. Nos devuelve true solo cuando ambas variables son true, sino siempre resulta
+false.
+
+|| también es un operador lógico que sirve para comparar variables, pero quiere decir "o".
+En este caso, devuelve false solo cuando ambas variables son false, sino devuelve true.
+
+! es otro operador que significa "distinto de".
